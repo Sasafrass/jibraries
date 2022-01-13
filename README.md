@@ -4,5 +4,12 @@ This repo is intended to provide a full list of lazy Java libraries that decided
 
 ## List of Jibraries
 
+* [AssertJ](https://assertj.github.io/doc/)
+* [JReleaser](https://jreleaser.org/)
+* [JUnit 4](https://junit.org/junit4/)
+* [JUnit 5](https://junit.org/junit5/)
 * [Jongo](https://jongo.org/)
 * [Jython](https://www.jython.org/)
+* [Log4j 2](https://logging.apache.org/log4j/2.x/)
+* [Log4j](https://logging.apache.org/log4j/1.2/)
+* [SLF4J](https://www.slf4j.org/)
